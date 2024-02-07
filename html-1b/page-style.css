@@ -13,3 +13,9 @@ body {
   background-color: gray;
   color: #fff;
 }
+
+img {
+  width: 20vw;
+  height: 20vw;
+  object-fit: cover;
+}
