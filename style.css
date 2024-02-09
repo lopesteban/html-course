@@ -10,11 +10,13 @@ img {
   width: 30%;
   height: 30%;
   border-radius: 5px;
+  background-color: rgb(255, 39, 46);
 }
 
 .username {
   font-weight: bold;
-  color: #34e;
+  background-color: rgb(35, 255, 255);
+  color: #fff;
   text-align: center;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
@@ -29,4 +31,6 @@ img {
   margin-top: 50%;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+  color: #fff;
+  background-color: #000;
 }
