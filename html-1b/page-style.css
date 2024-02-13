@@ -24,3 +24,7 @@ img {
   width: 10%;
   height: 10%;
 }*/
+
+#header {
+  border: 1.5px solid #000;
+}
