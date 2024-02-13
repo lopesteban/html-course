@@ -10,7 +10,6 @@ img {
   width: 30%;
   height: 30%;
   border-radius: 5px;
-  background-color: rgb(255, 39, 46);
 }
 
 .username {
@@ -27,8 +26,11 @@ img {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
-.info > a {
+.info > a:link,
+a:hover,
+a:visited {
   text-decoration: none;
+  color: rgba(0, 255, 100, 1);
 }
 
 #footer {
