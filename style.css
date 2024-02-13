@@ -27,10 +27,18 @@ img {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
+.info > a {
+  text-decoration: none;
+}
+
 #footer {
   margin-top: 50%;
   font-family: "Courier New", Courier, monospace;
   text-align: center;
   color: #fff;
   background-color: #000;
+}
+
+#footer > a {
+  text-decoration: none;
 }
