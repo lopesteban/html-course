@@ -4,6 +4,9 @@
 
 body {
   background-color: #fff;
+  background-image: url("images/Linkedin-profile-picture.jpg");
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 img {
